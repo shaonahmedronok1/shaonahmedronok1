@@ -23,4 +23,4 @@ Linux distro hopper, learner, and content creator at [shaonbtw]
 https://shaon.neocities.org
 
 
-[shaonbtw]: https://youtube.com/@shaonbtw
+[shaonbtw]: https://www.youtube.com/@shaonbtw?sub_confirmation=1
