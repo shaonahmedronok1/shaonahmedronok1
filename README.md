@@ -17,8 +17,6 @@ Linux distro hopper, learner, and content creator at [shaonahmedronok][youtube]
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 
-[<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/c/shaonahmedronok4?sub_confirmation=1)
-
 <!--#
 // need to host my out stats
 
