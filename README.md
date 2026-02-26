@@ -1,4 +1,4 @@
-# 🏄‍♂️ Shaon Ahmed Ronok
+#  󰚄 Shaon Ahmed Ronok
 
 **`An Minimal Guy`**
 
