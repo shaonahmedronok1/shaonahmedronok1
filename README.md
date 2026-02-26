@@ -1,7 +1,6 @@
-
 # ⌨️ Shaon Ahmed Ronok
 
-**`An Minimal Guy`**
+**`A Minimal Guy`**
 
 Linux distro hopper, learner, and content creator at [shaonbtw]
 
@@ -20,7 +19,6 @@ Linux distro hopper, learner, and content creator at [shaonbtw]
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 **`My Website`**
-https://shaon.neocities.org
-
+[https://shaon.neocities.org](https://shaon.neocities.org)
 
 [shaonbtw]: https://www.youtube.com/@shaonbtw?sub_confirmation=1
