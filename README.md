@@ -3,7 +3,7 @@
 
 **`An Minimal Guy`**
 
-Linux distro hopper, learner, and content creator at [shaonahmedronok][youtube]
+Linux distro hopper, learner, and content creator at @shaonbtw
 
    <p align="left">
       <a href="https://www.youtube.com/@shaonbtw?sub_confirmation=1">
