@@ -19,7 +19,8 @@ Linux distro hopper, learner, and content creator at [shaonbtw]
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
-
 **`My Website`**
 https://shaon.neocities.org
+
+
 [shaonbtw]: https://youtube.com/@shaonbtw
