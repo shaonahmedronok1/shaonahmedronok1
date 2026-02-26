@@ -1,4 +1,4 @@
-# \ue272  󰚄 Shaon Ahmed Ronok
+# \ue272  nf-fae-dna  󰚄 Shaon Ahmed Ronok
 
 **`An Minimal Guy`**
 
