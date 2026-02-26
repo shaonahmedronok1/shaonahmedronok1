@@ -1,7 +1,7 @@
 # ⌨️ Shaon Ahmed Ronok
 
 **`A Minimal Guy`**
-![Background](2026-02-25_21-29.png)
+
 Linux distro hopper, learner, and content creator at [shaonbtw]
 
 <p align="left">
