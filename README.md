@@ -1,26 +1,49 @@
-# Shaon Ahmed Ronok
+<div align="center">
 
-Writer, independent researcher, and systems thinker.
-Self-taught on Linux. Thinking seriously about information, attention, and what technology does to the people inside it.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb7c5,100:c2185b&height=200&section=header&text=Shaon%20Ahmed%20Ronok&fontSize=40&fontColor=fff&fontAlignY=38&desc=Writer%20%C2%B7%20Researcher%20%C2%B7%20Systems%20Thinker&descAlignY=58&descColor=ffe0ec"/>
 
-[shaon.neocities.org](https://shaon.neocities.org) · [@shaonbtw](https://www.youtube.com/@shaonbtw)
+[![Website](https://img.shields.io/badge/🌸%20shaon.neocities.org-c2185b?style=for-the-badge)](https://shaon.neocities.org)
+[![YouTube](https://img.shields.io/badge/YouTube-shaonbtw-ff0050?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@shaonbtw)
+
+*Self-taught on Linux. Writing about information, attention, and what technology does to the people inside it.*
+
+</div>
 
 ---
 
-## Tools
+<div align="center">
 
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+## 🌸 Languages
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
 ![Typst](https://img.shields.io/badge/typst-%23239DAD.svg?style=for-the-badge&logo=typst&logoColor=white)
+![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+![Nix](https://img.shields.io/badge/nix-%235277C3.svg?style=for-the-badge&logo=nixos&logoColor=white)
+
+## 🛠️ Tools
+
+![NixOS](https://img.shields.io/badge/NixOS-%235277C3.svg?style=for-the-badge&logo=nixos&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch%20Linux-%231793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![NixOS](https://img.shields.io/badge/nixos-%235277C3.svg?style=for-the-badge&logo=nixos&logoColor=white)
-![Arch](https://img.shields.io/badge/arch-%231793D1.svg?style=for-the-badge&logo=archlinux&logoColor=white)
+
+![Ghostty](https://img.shields.io/badge/Ghostty-Terminal-c2185b?style=for-the-badge&logo=windowsterminal&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-%2357A143.svg?style=for-the-badge&logo=neovim&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Neocities](https://img.shields.io/badge/Neocities-hosted-ff69b4?style=for-the-badge&logo=googlechrome&logoColor=white)
+
+</div>
 
 ---
 
-## Repos
+<div align="center">
+
+## 🌺 Repos
 
 | Repo | What it is |
 |------|------------|
@@ -31,7 +54,7 @@ Self-taught on Linux. Thinking seriously about information, attention, and what 
 
 ---
 
-## Writing
+## ✍️ Writing
 
 Five essays on philosophy of science, technology ethics, and effective altruism.
 
@@ -40,3 +63,7 @@ Five essays on philosophy of science, technology ethics, and effective altruism.
 ---
 
 *"The burden of proof lies with the addition."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c2185b,100:ffb7c5&height=120&section=footer"/>
+
+</div>
