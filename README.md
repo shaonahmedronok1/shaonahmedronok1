@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fef9f0,100:fef9f0&height=160&section=header&text=Shaon%20Ahmed%20Ronok&fontSize=42&fontColor=880e4f&fontAlignY=45&animation=scaleIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fef9f0,100:fef9f0&height=160&section=header&text=Shaon%20Ahmed%20Ronok&fontSize=42&fontColor=880e4f&fontAlignY=35&animation=scaleIn"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=500&color=C2185B&center=true&vCenter=true&width=500&duration=1500&lines=Writer+%C2%B7+Researcher+%C2%B7+Systems+Thinker;Self-taught+on+Linux;NixOS+%2F+Hyprland+%2F+Typst)](https://git.io/typing-svg)
 
