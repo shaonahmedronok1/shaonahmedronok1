@@ -42,7 +42,7 @@
 
 <div align="center">
 
-## 🌺 Repos
+## ❄️ Repos
 
 | Repo | What it is |
 |------|------------|
