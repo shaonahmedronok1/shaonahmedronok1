@@ -6,7 +6,7 @@
 [![Website](https://img.shields.io/badge/🌸%20shaon.neocities.org-c2185b?style=for-the-badge)](https://shaon.neocities.org)
 [![YouTube](https://img.shields.io/badge/YouTube-shaonbtw-ff0050?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@shaonbtw)
 
-*Self-taught on Linux. Writing about information, attention, and what technology does to the people inside it.*
+*🧬*
 
 </div>
 
@@ -53,10 +53,6 @@
 | [website](https://github.com/shaonahmedronok1/website) | Hand-coded personal site — raw HTML, CSS, vanilla JS |
 
 ---
-
-## ✍️ Writing
-
-Five essays on philosophy of science, technology ethics, and effective altruism.
 
 → [shaon.neocities.org](https://shaon.neocities.org)
 
