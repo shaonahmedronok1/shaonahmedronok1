@@ -1,6 +1,7 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb7c5,100:c2185b&height=260&section=header&text=Shaon%20Ahmed%20Ronok&fontSize=42&fontColor=fff&fontAlignY=38&desc=Writer%20%C2%B7%20Researcher%20%C2%B7%20Systems%20Thinker&descAlignY=58&descColor=ffe0ec&animation=scaleIn"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb7c5,100:c2185b&height=266&section=header&text=Shaon%20Ahmed%20Ronok&fontSize=40&fontColor=fff&fontAlignY=38&desc=Writer%20%C2%B7%20Researcher%20%C2%B7%20Systems%20Thinker&descAlignY=58&descColor=ffe0ec"/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=C2185B&center=true&vCenter=true&width=500&lines=Writer+%C2%B7+Researcher+%C2%B7+Systems+Thinker;Self-taught+on+Linux;NixOS+%2F+Hyprland+%2F+Typst)](https://git.io/typing-svg)
 
 [![Website](https://img.shields.io/badge/🌸%20shaon.neocities.org-c2185b?style=for-the-badge)](https://shaon.neocities.org)
 [![YouTube](https://img.shields.io/badge/YouTube-shaonbtw-ff0050?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@shaonbtw)
