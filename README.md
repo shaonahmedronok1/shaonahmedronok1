@@ -6,7 +6,6 @@
 [![Website](https://img.shields.io/badge/🌸%20shaon.neocities.org-c2185b?style=for-the-badge)](https://shaon.neocities.org)
 [![YouTube](https://img.shields.io/badge/YouTube-shaonbtw-ff0050?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@shaonbtw)
 
-*🧬*
 
 </div>
 
