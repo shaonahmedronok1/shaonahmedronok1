@@ -59,6 +59,6 @@
 
 *"The burden of proof lies with the addition."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c2185b,100:ffb7c5&height=166&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:fef9f0,100:fef9f0&height=120&section=footer&animation=scaleIn"/>
 
 </div>
