@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb7c5,100:c2185b&height=200&section=header&text=Shaon%20Ahmed%20Ronok&fontSize=40&fontColor=fff&fontAlignY=38&desc=Writer%20%C2%B7%20Researcher%20%C2%B7%20Systems%20Thinker&descAlignY=58&descColor=ffe0ec"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb7c5,100:c2185b&height=266&section=header&text=Shaon%20Ahmed%20Ronok&fontSize=40&fontColor=fff&fontAlignY=38&desc=Writer%20%C2%B7%20Researcher%20%C2%B7%20Systems%20Thinker&descAlignY=58&descColor=ffe0ec"/>
 
 [![Website](https://img.shields.io/badge/🌸%20shaon.neocities.org-c2185b?style=for-the-badge)](https://shaon.neocities.org)
 [![YouTube](https://img.shields.io/badge/YouTube-shaonbtw-ff0050?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@shaonbtw)
@@ -64,6 +64,6 @@ Five essays on philosophy of science, technology ethics, and effective altruism.
 
 *"The burden of proof lies with the addition."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c2185b,100:ffb7c5&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c2185b,100:ffb7c5&height=166&section=footer"/>
 
 </div>
