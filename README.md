@@ -47,7 +47,9 @@
 | Repo | What it is |
 |------|------------|
 | [typst-foundry](https://github.com/shaonahmedronok1/typst-foundry) | Five professional Typst templates — academic, letter, invoice, report, slides |
-| [dotfiles](https://github.com/shaonahmedronok1/dotfiles) | NixOS and Arch Linux configs — every setting has a reason |
+| [nixos-config](https://github.com/shaonahmedronok1/nixos-config) | NixOS configs |
+| [docs](https://github.com/shaonahmedronok1/docs) | cheatsheet of the Linux workflow |
+| [dotfiles](https://github.com/shaonahmedronok1/dotfiles) | dotfiles & Linux programs/tools configs — every setting has a reason |
 | [assembly-index-dataset](https://github.com/shaonahmedronok1/assembly-index-dataset) | Research dataset mapping object complexity via assembly theory |
 | [website](https://github.com/shaonahmedronok1/website) | Hand-coded personal site — raw HTML, CSS, vanilla JS |
 
