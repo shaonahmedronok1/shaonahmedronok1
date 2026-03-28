@@ -42,13 +42,7 @@
 ## About
 
 </div>
-```python
->>> profile = github.User("shaonahmedronok1").about()
->>> profile.show()
-```
 
-- 2nd-year Political Science student — National University Bangladesh
-- Targeting fully funded Master's abroad (Europe / US) — 2028
 - Deep in NixOS, declarative configs, and reproducible systems
 - Currently learning R for research and data analysis
 - Building everything in public — configs, templates, datasets, tools
