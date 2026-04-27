@@ -57,7 +57,7 @@
 
 | Repo | What it is |
 |------|------------|
-| [nix-config](https://github.com/shaonahmedronok1/nix-config) | Declarative NixOS — Flakes, Home Manager, Hyprland, Gruvbox, modular structure |
+| [nixos-config](https://github.com/shaonahmedronok1/nixos-config) | Declarative NixOS — Flakes, Home Manager, Hyprland, Gruvbox, modular structure |
 | [typst-foundry](https://github.com/shaonahmedronok1/typst-foundry) | Five professional Typst templates — academic, letter, invoice, report, slides |
 | [docs](https://github.com/shaonahmedronok1/docs) | Cheatsheets for the Linux workflow |
 | [dotfiles](https://github.com/shaonahmedronok1/dotfiles) | Dotfiles and Linux program configs — every setting has a reason |
