@@ -16,17 +16,16 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height="60" alt="R logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height="60" alt="R" />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/typst/typst@main/assets/typst-logo.svg" height="60" alt="Typst logo" />
+  <img src="https://cdn.simpleicons.org/typst/239DAE" height="60" alt="Typst" />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" height="60" alt="LaTeX logo" style="background-color: #ffffff; padding: 4px; border-radius: 4px;" />
+  <img src="https://cdn.simpleicons.org/latex/white" height="60" alt="LaTeX" />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" height="60" alt="NixOS logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" height="60" alt="NixOS" />
 </div>
 
 ###
-
 
 
 
