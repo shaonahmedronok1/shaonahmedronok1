@@ -17,14 +17,9 @@
 
 <div align="center">
 
-![Nix](https://img.shields.io/badge/Nix-242424?style=for-the-badge&logo=nixos&logoColor=7daea3&labelColor=3c3836)
 ![R](https://img.shields.io/badge/R-242424?style=for-the-badge&logo=r&logoColor=7daea3&labelColor=3c3836)
 ![Typst](https://img.shields.io/badge/Typst-242424?style=for-the-badge&logo=typst&logoColor=8ec07c&labelColor=3c3836)
-
 ![NixOS](https://img.shields.io/badge/NixOS-242424?style=for-the-badge&logo=nixos&logoColor=7daea3&labelColor=3c3836)
-![Neovim](https://img.shields.io/badge/Neovim-242424?style=for-the-badge&logo=neovim&logoColor=b8bb26&labelColor=3c3836)
-![Niri](https://img.shields.io/badge/Niri-242424?style=for-the-badge&logo=wayland&logoColor=8ec07c&labelColor=3c3836)
-![Linux](https://img.shields.io/badge/Linux-242424?style=for-the-badge&logo=linux&logoColor=fabd2f&labelColor=3c3836)
 
 </div>
 
