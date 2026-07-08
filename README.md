@@ -8,7 +8,6 @@
 </div>
 
 
-
 ###
 
 <h3 align="center">Languages & Tools</h3>
@@ -16,17 +15,17 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height="60" alt="R" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height="60" alt="R logo" />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/typst/239DAE" height="60" alt="Typst" />
+  <img src="https://cdn.simpleicons.org/typst/239DAE" height="60" alt="Typst logo" />
   <img width="20" />
-  <img src="https://cdn.simpleicons.org/latex/white" height="60" alt="LaTeX" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg#gh-light-mode-only" height="60" alt="LaTeX logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/latex/latex-original.svg" height="60" alt="LaTeX logo" style="filter: invert(1);" />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" height="60" alt="NixOS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" height="60" alt="NixOS logo" />
 </div>
 
 ###
-
 
 
 
