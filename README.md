@@ -65,8 +65,6 @@ MIT — use freely.
 
 ---
 
-*"The burden of proof lies with the addition."*
-
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3c3836,100:242424&height=120&section=footer"/>
 </div>
