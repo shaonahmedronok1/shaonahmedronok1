@@ -30,18 +30,6 @@
 
 <div align="center">
 
-## About
-
-</div>
-
-- Deep in NixOS, declarative configs, and reproducible systems
-- Currently learning R for research and data analysis
-- Building everything in public — configs, templates, datasets, tools
-
----
-
-<div align="center">
-
 ## Repos
 
 </div>
@@ -57,11 +45,6 @@
 
 → [shaon.neocities.org](https://shaon.neocities.org)
 
----
-
-## License
-
-MIT — use freely.
 
 ---
 
