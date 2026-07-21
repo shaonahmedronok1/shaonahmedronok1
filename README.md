@@ -11,16 +11,24 @@
 
 <h3 align="center">Languages & Tools</h3>
 
-###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height="60" alt="R logo" />
-  <img width="20" />
-  <img src="https://cdn.simpleicons.org/typst/239DAE" height="60" alt="Typst logo" />
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" height="60" alt="LaTeX logo" />
-
-  <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" height="60" alt="NixOS logo" />
-
+<table>
+  <tr>
+    <td align="center" bgcolor="#282828" style="border-radius:10px; padding:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" height="60" alt="R" />
+    </td>
+    <td width="12"></td>
+    <td align="center" bgcolor="#282828" style="border-radius:10px; padding:10px;">
+      <img src="https://cdn.simpleicons.org/typst/239DAE" height="60" alt="Typst" />
+    </td>
+    <td width="12"></td>
+    <td align="center" bgcolor="#f0f0f0" style="border-radius:10px; padding:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" height="60" alt="LaTeX" />
+    </td>
+    <td width="12"></td>
+    <td align="center" bgcolor="#282828" style="border-radius:10px; padding:10px;">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" height="60" alt="NixOS" />
+    </td>
+  </tr>
+</table>
 </div>
